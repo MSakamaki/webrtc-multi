@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-multi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server src -p 4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSakamaki/webrtc-multi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSakamaki/webrtc-multi/issues"
+  },
+  "homepage": "https://github.com/MSakamaki/webrtc-multi#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
